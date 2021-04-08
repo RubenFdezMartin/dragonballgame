@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioDeEntrega/1.0.0": {
+        "runtime": {
+          "EjercicioDeEntrega.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioDeEntrega/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/bin/Debug/net5.0/EjercicioDeEntrega.deps.json
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/bin/Debug/net5.0/EjercicioDeEntrega.runtimeconfig.json
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/bin/Debug/net5.0/EjercicioDeEntrega.runtimeconfig.dev.json
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/bin/Debug/net5.0/EjercicioDeEntrega.dll
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/bin/Debug/net5.0/ref/EjercicioDeEntrega.dll
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/bin/Debug/net5.0/EjercicioDeEntrega.pdb
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/EjercicioDeEntrega.csprojAssemblyReference.cache
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/EjercicioDeEntrega.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/EjercicioDeEntrega.AssemblyInfoInputs.cache
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/EjercicioDeEntrega.AssemblyInfo.cs
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/EjercicioDeEntrega.csproj.CoreCompileInputs.cache
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/EjercicioDeEntrega.dll
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/ref/EjercicioDeEntrega.dll
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/EjercicioDeEntrega.pdb
+/Users/rubenfernandezmartin/Projects/EjercicioDeEntrega/EjercicioDeEntrega/obj/Debug/net5.0/EjercicioDeEntrega.genruntimeconfig.cache
